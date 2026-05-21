@@ -79,12 +79,39 @@ Comparison images were rendered for PSNR, MSE, and SSIM calculations. All images
 **Fake Plant:**
 - Significantly fewer disconnected Gaussians compared to PostShot
 - Cleaner overall reconstruction
+- Pot not as bad though still slightly blurry and inconsistent
+- Still some disconnected Gaussians, though larger and further away
 
-**Metal Pot:**
-- Improved but still slightly blurry and inconsistent
+<img width="461" height="488" alt="Skärmbild 2026-05-20 202718" src="https://github.com/user-attachments/assets/322ffc4d-f59a-4378-99a3-4cfdfa240c3a" />
+
+<img width="952" height="566" alt="Skärmbild 2026-05-20 231219" src="https://github.com/user-attachments/assets/7db1ed0d-4721-4fe6-b2d3-75c08941fb22" />
+
+<img width="517" height="562" alt="Skärmbild 2026-05-20 231249" src="https://github.com/user-attachments/assets/281959a3-7ac5-4ca7-80bc-12403f8c5811" />
 
 **Drinking Glass:**
-- Better separation of object from background
+- Better separation of object from background, with dark parts not being quite as prominent on the glass
+- Much more blurry, inconsistent and less detailed
+- Similar amount of disconnected gaussians
+
+<img width="658" height="612" alt="Skärmbild 2026-05-21 004325" src="https://github.com/user-attachments/assets/c242aa30-ab40-4b4b-aad8-e94b9141682e" />
+
+<img width="618" height="657" alt="Skärmbild 2026-05-21 004358" src="https://github.com/user-attachments/assets/8605a0f7-da5b-4d08-bce2-bcbdfb6c77e4" />
+
+<img width="411" height="573" alt="Skärmbild 2026-05-21 004447" src="https://github.com/user-attachments/assets/1436bc47-2c08-4778-a468-1ca607bc431d" />
+
+**Metal Pot:**
+- Much blurrier and less detailed reconstruction
+- Inconsistent and very noticable popping artefacts on the outside of the pot
+- Fewer but larger disconnected Gaussians
+- Inconsistent and inaccurate shape
+
+<img width="948" height="574" alt="Skärmbild 2026-05-21 022045" src="https://github.com/user-attachments/assets/9d5b25a8-137a-49fe-bda8-35f60d7ee65d" />
+
+<img width="843" height="516" alt="Skärmbild 2026-05-21 022207" src="https://github.com/user-attachments/assets/8507b231-6acc-4d83-a805-642baf8f91f9" />
+
+<img width="487" height="403" alt="Skärmbild 2026-05-21 022329" src="https://github.com/user-attachments/assets/144876ce-88a0-4a57-9ab2-ceb48503df32" />
+
+<img width="710" height="582" alt="Skärmbild 2026-05-21 022841" src="https://github.com/user-attachments/assets/03cdfb3e-afc2-42f1-8dbd-840695fb15b5" />
 
 ---
 
@@ -103,7 +130,7 @@ Comparison images were rendered for PSNR, MSE, and SSIM calculations. All images
 **Fake Plant:**
 - Strong reconstruction in still frame and from similar angles to that of the camera
 - Disconnected Gaussians present around the plant
-- Struggled to render the pot, possibly due to lack of angle of it.
+- Struggled to render the pot, possibly due to lack of angle of it
 
 <img width="634" height="705" alt="Skärmbild 2026-05-19 222443" src="https://github.com/user-attachments/assets/c187326d-49c1-4457-aa2c-4c9b4f9f4967" />
 
