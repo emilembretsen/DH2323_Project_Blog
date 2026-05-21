@@ -119,8 +119,7 @@ Comparison images were rendered for PSNR, MSE, and SSIM calculations. All images
 
 <img width="503" height="507" alt="Skärmbild 2026-05-19 234117" src="https://github.com/user-attachments/assets/d1c2e282-8eb2-452a-8b23-be5c60950e29" />
 
-<img width="674" height="298" alt="Skärmbild 2026-05-19 234202" src="https://github.com/user-attachments/assets/05429a76-5eb7-4831-a7bd-d2e98b5f8add" />![Uploading Skärmbild 2026-05-21 235537.png…]()
-
+<img width="674" height="298" alt="Skärmbild 2026-05-19 234202" src="https://github.com/user-attachments/assets/05429a76-5eb7-4831-a7bd-d2e98b5f8add" />
 
 <img width="646" height="565" alt="Skärmbild 2026-05-19 234339" src="https://github.com/user-attachments/assets/680a3402-9e9f-4832-88cb-4c4f88103608" />
 
