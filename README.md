@@ -180,7 +180,7 @@ Similarly to transparency, reflections can be very difficult to capture in 3D fr
 
 Each video was between **1:03 and 1:30 minutes** long, capturing as many angles of each object as possible.
 
-<img width="2532" height="1170" alt="camera_settings" src="https://github.com/user-attachments/assets/6455e45e-9478-407f-b8bc-0688fea1f3f9" />
+<img width="2532" height="1170" alt="camera_settings" src="https://github.com/user-attachments/assets/4c111c0f-2aae-48cf-a2f8-19cbeb008cac" />
 
 ### Frame Extraction Workflow
 
