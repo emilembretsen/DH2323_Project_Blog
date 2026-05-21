@@ -22,17 +22,17 @@ Comparison images were rendered for PSNR, MSE, and SSIM calculations. All images
 #### Figure 1: Fake Plant Comparison
 *Left: Real | Middle: PostShot | Right: LichtFeld Studio*
 
-![Fake plant comparison - Real vs PostShot vs LichtFeld Studio](images/plant_comparison.png)
+<img width="902" height="301" alt="Skärmbild 2026-05-21 235537" src="https://github.com/user-attachments/assets/08193d9a-eb0a-4106-ab40-a4a41726d528" />
 
 #### Figure 2: Drinking Glass Comparison
 *Left: Real | Middle: PostShot | Right: LichtFeld Studio*
 
-![Glass comparison - Real vs PostShot vs LichtFeld Studio](images/glass_comparison.png)
+<img width="894" height="451" alt="Skärmbild 2026-05-21 235723" src="https://github.com/user-attachments/assets/cf53b678-77d4-407d-9fcc-1b4299c93592" />
 
 #### Figure 3: Metal Pot Comparison
 *Left: Real | Middle: PostShot | Right: LichtFeld Studio*
 
-![Metal pot comparison - Real vs PostShot vs LichtFeld Studio](images/pot_comparison.png)
+<img width="953" height="161" alt="image" src="https://github.com/user-attachments/assets/97b92c26-9d04-4461-af11-33c4dfaa2132" />
 
 ### Quantitative Analysis
 
@@ -119,7 +119,7 @@ Comparison images were rendered for PSNR, MSE, and SSIM calculations. All images
 
 <img width="503" height="507" alt="Skärmbild 2026-05-19 234117" src="https://github.com/user-attachments/assets/d1c2e282-8eb2-452a-8b23-be5c60950e29" />
 
-<img width="674" height="298" alt="Skärmbild 2026-05-19 234202" src="https://github.com/user-attachments/assets/05429a76-5eb7-4831-a7bd-d2e98b5f8add" />
+<img width="674" height="298" alt="Skärmbild 2026-05-19 234202" src="https://github.com/user-attachments/assets/05429a76-5eb7-4831-a7bd-d2e98b5f8add" />![Uploading Skärmbild 2026-05-21 235537.png…]()
 
 
 <img width="646" height="565" alt="Skärmbild 2026-05-19 234339" src="https://github.com/user-attachments/assets/680a3402-9e9f-4832-88cb-4c4f88103608" />
@@ -155,17 +155,14 @@ Images were taken during daytime outside on a cloudy day in order to get even li
 #### Object 1: Fake Plant
 The fake plant offers a high level of detail with thin stems and leaves. 
 
-<img width="766" height="739" alt="Skärmbild 2026-05-19 184404" src="https://github.com/user-attachments/assets/87b9560f-604d-4b08-b636-16dc33716a2d" />
-
 #### Object 2: Drinking Glass
 This drinking glass offers another complicated aspect of 3D-capture: transparency. With a transparent object, it can be difficult to determine what is part of the object itself and what is part of the background. Another added layer of complexity is that the glass has smudges and fingerprints on it, which was intentional, as this can make it even harder to determine what is part of the foreground or background.
-
-<img width="570" height="563" alt="Skärmbild 2026-05-19 184345" src="https://github.com/user-attachments/assets/592e246b-a3a8-4187-8ed8-a9580a3e0f48" />
 
 #### Object 3: Metal Pot
 Similarly to transparency, reflections can be very difficult to capture in 3D from videos, as it can be difficult to determine what is part of the object itself and what is simply being reflected on its surface. The pot was also dirty and smudged for the same reason as the glass.
 
-<img width="887" height="658" alt="Skärmbild 2026-05-19 184442" src="https://github.com/user-attachments/assets/1155c6d8-c835-4785-aafa-3508eb886c10" />
+<img width="916" height="284" alt="Skärmbild 2026-05-21 235403" src="https://github.com/user-attachments/assets/df3e5695-ac17-4f8d-a8cc-0a8aa8994cc9" />
+
 
 ### Camera Settings
 
